@@ -2,7 +2,8 @@
 
 **`Fullstack Dev / Software Engineer`**
 
-Degree in web design and full-stack development, I am currently studying Systems Analysis and Development. Extensive experience with languages such as JavaScript, PHP, HTML, CSS, and SQL, as well as proficiency in frameworks, libraries, and ORMs. At the moment, I work mainly in the PHP ecosystem, with Composer, Laravel, and Wordpress architecture being part of my daily routine in the development and efficient management of these tools. I also have advanced knowledge of network and server infrastructure, which allows me to work on projects from start to finish, from coding to the production environment. Experience with agile methodologies, especially SCRUM.
+Degree in web design and full-stack development. I am currently studying Systems Analysis and Development, and I work mainly in the Javascript/PHP ecosystem, with Nodejs, React, Composer and Laravel being part of my daily routine in development. I have also been learning Python (with a focus on AI automation) and Cybersecurity and have advanced knowledge of network, server infrastructure and database management as well, which allows me to work on projects from start to finish, from coding to the production environment. Experience with agile methodologies, especially SCRUM.
+
 
 
 ---
