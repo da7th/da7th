@@ -1,6 +1,6 @@
 # Welcome, human 🧛💻
 
-**`Fullstack Dev / Software Engineer`**
+**`Software & Systems Engineer`**
 
 Full-Stack Developer and Systems Analyst with a degree in Web-Design and Full-Stack Development. Currently pursuing further specialization in Systems Analysis with Systems Analysis and Development degree.
 
