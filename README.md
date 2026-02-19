@@ -6,9 +6,9 @@ Full-Stack Developer and Systems Analyst with a degree in Web-Design and Full-St
 
 I work primarily within the JavaScript and PHP ecosystems, utilizing Node.js, React, Laravel and Composer on a daily basis but I'm learning other languages in the meantime such as Python, Java and Typescript. 
 
-My expertise extends beyond coding with professional contact with systems administration, cloud computing, server and network infrastructure and Linux, allowing me to manage projects through their entire lifecycle.
+My expertise extends beyond coding with professional contact with systems administration, cloud computing, server/network infrastructure and Linux, allowing me to manage projects through their entire lifecycle.
 
-Driven by a commitment to continuous learning, I am also deepening my knowledge in cybersecurity and ethical hacking, while leveraging Agile methodologies (SCRUM) to deliver high-quality, secure, and scalable solutions.
+Driven by a commitment to continuous learning, I am also deepening my knowledge in cybersecurity and ethical hacking, while leveraging Agile methodologies to deliver high-quality, secure, and scalable solutions.
 
 
 
